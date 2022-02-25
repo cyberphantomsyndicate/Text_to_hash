@@ -100,7 +100,7 @@ print("\nWELCOME TO TEXT 2 HASH CONVERTER !\n\nSELECT A HASH :")
 print("""
 
 |-----|------------------------|
-|Sl.no|  Select kar le bhilog  |
+|NO : |  Select kar le bhilog  |
 |-----|------------------------|
 |1 .  | MD5 Hash               |
 |2 .  | SHA256 Hash            |
