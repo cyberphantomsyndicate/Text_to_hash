@@ -1,5 +1,5 @@
-<h1 align="center">Userecon</h1>
-<p align="center">Hi</p><br>
+<h1 align="center">Text_to_hash</h1>
+<p align="center">It convert text to hash a python Tool</p><br>
 
 
 
@@ -21,7 +21,7 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/Userecon.git `
+* `git clone https://github.com/hacker6291/Text_to_hash.git `
 * `ls`
 * `cd Userecon `
 
@@ -31,16 +31,16 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/Userecon.git`
+* `git clone https://github.com/hacker6291/Text_to_hash.git`
 * `ls`
-* `cd Userecon `
+* `cd Text_to_hash `
 
 
 ## Uses :
 
-* `cd Userecon`
+* `cd Text_to_hash`
 * `ls`
-* `bash start.sh`
+* `python3 converter.py`
 
 
 ## Screenshot:
