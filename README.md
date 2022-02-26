@@ -23,7 +23,7 @@
 * `pkg install git`
 * `git clone https://github.com/hacker6291/Text_to_hash.git `
 * `ls`
-* `cd Userecon `
+* `cd Text_to_hash`
 
 
 ## INSTALLATION [Kali Linux] :
