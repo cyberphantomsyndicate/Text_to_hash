@@ -4,12 +4,12 @@ from colorama import Fore ,Back ,Style ,init #line:4
 init (autoreset =True )#line:5
 def startMessage ():#line:7
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")#line:8
-    OOOO0OO000OO0OOOO ="hacker"#line:9
+    OOOO0OO000OO0OOOO ="Love"#line:9
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :#line:10
         print (Fore .RED +'[X] Wrong Code')#line:11
         print (Fore .BLUE +''' 
    1. Go to Insta and massage 
-   2. Insta ID: qadirahmad6291
+   2. Insta ID: cyberphantomsyndicate
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
